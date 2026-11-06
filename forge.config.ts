@@ -28,7 +28,7 @@ const config: ForgeConfig = {
   makers: [
     new MakerMSIX({
       packageAssets: "assets/appx",
-      packageName: "TailsTalk2-Metro",
+      packageName: "TailsTalk2-Metro.msix",
       windowsKitVersion: "10.0.26100.0",
       manifestVariables: {
         appDisplayName: APP_NAME,
