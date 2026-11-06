@@ -28,11 +28,9 @@
   },
   "dependencies": {
     "auto-launch": "^5.0.6",
-    "bufferutil": "^4.0.9",
     "discord-rpc": "^4.0.1",
     "electron-store": "^10.1.0",
-    "json-schema-typed": "^8.0.1",
-    "utf-8-validate": "^6.0.5"
+    "json-schema-typed": "^8.0.1"
   },
   "overrides": {
     "@electron/node-gyp": "10.2.0-electron.2"
